@@ -1,0 +1,12 @@
+C:\Users\autologon\source\repos\GestEscolar\CapaDeEntidade\bin\Debug\CapaDeEntidade.dll
+C:\Users\autologon\source\repos\GestEscolar\CapaDeEntidade\bin\Debug\CapaDeEntidade.pdb
+C:\Users\autologon\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.dll
+C:\Users\autologon\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.pdb
+C:\Users\Pichau\Desktop\GestEscolar\CapaDeEntidade\bin\Debug\CapaDeEntidade.dll
+C:\Users\Pichau\Desktop\GestEscolar\CapaDeEntidade\bin\Debug\CapaDeEntidade.pdb
+C:\Users\Pichau\Desktop\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.dll
+C:\Users\Pichau\Desktop\GestEscolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.pdb
